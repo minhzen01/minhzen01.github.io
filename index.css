@@ -6,7 +6,7 @@ body {
     background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
   }
 
-#blo {
+.blo {
     font-family: Comic Sans MS;
     color: #ff99cc;
     position: absolute;
@@ -15,7 +15,7 @@ body {
     font-size: 35px;
     display: inline-block;
 }
-#clo {
+.clo {
     font-family: Comic Sans MS;
     color: #ff99cc;
     position: absolute;
