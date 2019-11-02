@@ -5,22 +5,23 @@ body {
     background-repeat: no-repeat;
     background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
   }
-.alo {
-    font-family: Comic Sans MS;
-    color: #33ccff;
-    position: absolute;
-    top:345px;
-    left:665px;
-    font-size: 40px;
-    display: inline-block;
-}
-.blo {
+
+#blo {
     font-family: Comic Sans MS;
     color: #ff99cc;
     position: absolute;
     top:345px;
     left:625px;
     font-size: 35px;
+    display: inline-block;
+}
+#clo {
+    font-family: Comic Sans MS;
+    color: #ff99cc;
+    position: absolute;
+    top:378px;
+    left:903px;
+    font-size: 6px;
     display: inline-block;
 }
 
