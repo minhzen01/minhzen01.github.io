@@ -1,5 +1,7 @@
 body {
-    background-image: url("Nguyễn Quang Minh3.jpg");
+    background-image: url("../image/minh.jpg");
+    background-size: cover;
+    background-repeat: none;
 /*     background-color: #000;    
     margin: 0;
     overflow: hidden;
