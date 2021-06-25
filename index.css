@@ -1,15 +1,14 @@
 body {
-    background-image: url("../image/minh.jpg");
+/*     background-image: url("../image/minh.jpg");
     background-size: cover;
-    background-repeat: none;
-/*     background-color: #000;    
+    background-repeat: none; */
+    background-color: #000;    
     margin: 0;
     overflow: hidden;
     background-repeat: no-repeat;
-    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%); */
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
   }
-
-/* .blo {
+.blo {
     font-family: Comic Sans MS;
     color: #ff99cc;
     position: absolute;
@@ -27,4 +26,3 @@ body {
     font-size: 6px;
     display: inline-block;
 }
- */
